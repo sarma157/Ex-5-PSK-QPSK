@@ -116,7 +116,9 @@ plt.grid(True)
 plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
+
 ## OUTPUT WAVEFORM:
+
 #### PSK:
 <img width="815" height="738" alt="image" src="https://github.com/user-attachments/assets/fda37ef2-d28e-44e8-97d7-d973a24c8f42" />
 
